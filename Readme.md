@@ -17,6 +17,9 @@ Para ello, vamos a App Service Logs (Registros de App Service) y configuramos la
 <img src="https://user-images.githubusercontent.com/123812331/226108017-01f13452-d8d4-45bd-b2aa-0c162bcbd860.png" width="60%" height="60%"/>  
  
 Al revisar los logs en log stream (secuencia de registros) se evidencian los posibles errores al intentar hacer login:  
-<img src="https://user-images.githubusercontent.com/123812331/226108477-5281f5c5-1629-44cc-84bb-47bd9612634f.png" width="60%" height="60%"/>  
+<img src="https://user-images.githubusercontent.com/123812331/226108477-5281f5c5-1629-44cc-84bb-47bd9612634f.png" width="60%" height="60%"/>    
 
+Clonamos el proyecto MyShuttle desde Azure DevOps:  
+<img src="https://user-images.githubusercontent.com/123812331/226108741-5600c27b-2cd1-43ee-9455-4599ffa3d99d.png" width="60%" height="60%"/>    
+Ingresamos con el correo electrónico de la universidad, y se clona el proyecto exitosamente.
 
