@@ -6,7 +6,17 @@
 ## Finalización CI/CD - Manejo de Data - ORM
 ## PARTE I. FINALIZACIÓN CI/CD
 ### Verificación App  
-Iniciando el servicio y dirigiendonos a nuestra URL:
+Iniciando el servicio y dirigiendonos a nuestra URL:  
+<img src="https://user-images.githubusercontent.com/123812331/226107091-1dc8a35e-b730-47ee-9d93-cdb80d3ed805.png" width="60%" height="60%"/>  
 
-![image](https://user-images.githubusercontent.com/123812331/226107091-1dc8a35e-b730-47ee-9d93-cdb80d3ed805.png)
+### Troubleshooting - Activando logs  
+Primero, luego de activar el servicio  y antes de ingresar a logs stream (secuencia de registro), nos indican que debemos activar los logs:
+<img src="https://user-images.githubusercontent.com/123812331/226107762-89bdfcf7-40fb-43bd-a1fd-529e64a81071.png" width="60%" height="60%"/>  
+
+Para ello, vamos a App Service Logs (Registros de App Service) y configuramos las siguientes opciones como se muestra em la imagen. Luego guardamos.  
+<img src="https://user-images.githubusercontent.com/123812331/226108017-01f13452-d8d4-45bd-b2aa-0c162bcbd860.png" width="60%" height="60%"/>  
+ 
+Al revisar los logs en log stream (secuencia de registros) se evidencian los posibles errores al intentar hacer login:  
+<img src="https://user-images.githubusercontent.com/123812331/226108477-5281f5c5-1629-44cc-84bb-47bd9612634f.png" width="60%" height="60%"/>  
+
 
