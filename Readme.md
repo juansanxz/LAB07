@@ -27,3 +27,11 @@ Ingresamos con el correo electrónico de la universidad, y se clona el proyecto 
 Editar el pipeline de nuestro proyecto, y en la opción "Triggers" activar la opción de integración continua:  
 <img src="https://user-images.githubusercontent.com/123812331/226109140-a07e1e73-b170-42a7-90ac-30185668f51c.png" width="60%" height="60%"/>    
 
+Ahora, en el menú de releases, creamos uno nuevo:
+<img src="https://user-images.githubusercontent.com/123812331/226109384-a1905922-7039-46e7-8635-457411b217d2.png" width="60%" height="60%"/>
+
+### Bugfixing - Solucionando un Bug  
+El error lo vemos en el Data Access e ingresamos los datos correctos:
+<img src="https://user-images.githubusercontent.com/123812331/226110423-18ce9983-d90b-44cd-984c-cf62f9bf649f.png" width="60%" height="60%"/>
+
+
