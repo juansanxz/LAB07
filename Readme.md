@@ -23,3 +23,7 @@ Clonamos el proyecto MyShuttle desde Azure DevOps:
 <img src="https://user-images.githubusercontent.com/123812331/226108741-5600c27b-2cd1-43ee-9455-4599ffa3d99d.png" width="60%" height="60%"/>    
 Ingresamos con el correo electrónico de la universidad, y se clona el proyecto exitosamente.
 
+### Continuous Integration - Activando la opción integración continua en el Pipeline.  
+Editar el pipeline de nuestro proyecto, y en la opción "Triggers" activar la opción de integración continua:  
+<img src="https://user-images.githubusercontent.com/123812331/226109140-a07e1e73-b170-42a7-90ac-30185668f51c.png" width="60%" height="60%"/>    
+
