@@ -31,7 +31,11 @@ Ahora, en el menú de releases, creamos uno nuevo:
 <img src="https://user-images.githubusercontent.com/123812331/226109384-a1905922-7039-46e7-8635-457411b217d2.png" width="60%" height="60%"/>
 
 ### Bugfixing - Solucionando un Bug  
-El error lo vemos en el Data Access e ingresamos los datos correctos:
-<img src="https://user-images.githubusercontent.com/123812331/226110423-18ce9983-d90b-44cd-984c-cf62f9bf649f.png" width="60%" height="60%"/>
+El error lo vemos en las propiedades de la clase Data Access, así que ingresamos los datos correctos:  
+<img src="https://user-images.githubusercontent.com/123812331/227722129-6057c377-0ca8-43de-857a-2d8bddae5f89.png" width="60%" height="60%"/>
+
+Luego de subir los cambios al reopositorio remoto, en el portal de Azure, nos dirigimos a la aplicación web, configuraciones, y en la cadena de conexión creada, modificamos el valor, estableciendo en "falso" el uso de SSL.   
+<img src="https://user-images.githubusercontent.com/123812331/227722352-f3115871-599b-48c0-8b8c-c466dc66d6eb.png" width="60%" height="60%"/>
+
 
 
