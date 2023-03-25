@@ -38,7 +38,7 @@ Luego de subir los cambios al reopositorio remoto, en el portal de Azure, nos di
 <img src="https://user-images.githubusercontent.com/123812331/227722352-f3115871-599b-48c0-8b8c-c466dc66d6eb.png" width="60%" height="60%"/>
 
 Finalmente, nuevamente desde el portal de Azure, en le servidor de base de datos, deshablitamos el uso de conexi+on SSL. Luego creamos un nuevo release desde Azure DevOps, e iniciamos los servicios.   
-<img src="https://user-images.githubusercontent.com/123812331/227722684-093a877d-f7a3-42f1-a78c-2dc0b486233e.png" width="60%" height="60%"/>
+<img src="https://user-images.githubusercontent.com/123812331/227722684-093a877d-f7a3-42f1-a78c-2dc0b486233e.png" width="70%" height="70%"/>
 
 Al hacer Login, evidenciamos el funcionamiento de la página web.  
 <img src="https://user-images.githubusercontent.com/123812331/227722891-6a71e0be-f1d3-464c-ab1c-8f18b74fdf08.png" width="60%" height="60%"/>
