@@ -43,9 +43,7 @@ Finalmente, nuevamente desde el portal de Azure, en le servidor de base de datos
 Al hacer Login, evidenciamos el funcionamiento de la página web.  
 <img src="https://user-images.githubusercontent.com/123812331/227722891-6a71e0be-f1d3-464c-ab1c-8f18b74fdf08.png" width="60%" height="60%"/>
 
-## PARTE II. USANDO SPRING DATA DESDE CERO
 
-Creamos un repositorio llamado 
 
 
 
